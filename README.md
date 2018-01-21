@@ -10,6 +10,6 @@ Keywords: Local field potentials; Current-source density; CSD; Multielectrode; L
 NOTES
 -----
 
-These codes are made freely available with a GPL license, but is however provided with absolutely no support or warranty and is to be considered legacy codes.
+These codes are made freely available with a GPL license, but are provided with absolutely no support or warranty and are to be considered legacy codes.
 
-The iCSD methods has been reimplemented in Python as a standalone package (https://github.com/espenhgn/iCSD) and as part of the elephant project (https://github.com/NeuralEnsemble/elephant/).
+The iCSD methods have been reimplemented in Python as a standalone package (https://github.com/espenhgn/iCSD) and as part of the elephant project (https://github.com/NeuralEnsemble/elephant/).

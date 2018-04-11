@@ -13,3 +13,5 @@ NOTES
 These codes are made freely available with a GPL license, but are provided with absolutely no support or warranty and are to be considered legacy codes.
 
 The iCSD methods have been reimplemented in Python as a standalone package (https://github.com/espenhgn/iCSD) and as part of the elephant project (https://github.com/NeuralEnsemble/elephant/).
+
+A version of these codes updated to work with more recent versions of matlab can be found here: http://web.eng.fiu.edu/jrieradi/CSDPlotter/
